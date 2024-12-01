@@ -30,43 +30,43 @@
   {
     "objectID": "cv.html",
     "href": "cv.html",
-    "title": "C.V.",
+    "title": "Curriculum Vitae",
     "section": "",
-    "text": "University of Toronto | HBSc Applied Statistics and Mathematical Sciences (September 2021 - Present) Acton-Boxborough Regional High School | (September 2017 - June 2021)\n\n\n\nTBA: Under construction!\n\n\n\nSTA304 Group Project [About: Under Construction!]\n\n\n\n\n\n\nCalculus (MAT135/136/232/236)\nLinear Algebra (MAT223/224)\nGroup Theory (MAT301)\nReal Analysis (MAT337)\n\n\n\n\n\nProbaility and Statistics (STA256/258)\nRegression Analysis (STA302)\nSurveys, Sampling, and Observational Data (STA304)\n\n\n\n\n\n\nTechnical: LaTeX, Quarto, R Language, Git, Python\nEducation: Calculus, Linear Algebra, Real Analysis, Probability & Statistics\nCertifications: Adult and Pediatric First Aid/CPR/AED, Issued by the American Red Cross"
+    "text": "University of Toronto | HBSc Applied Statistics and Mathematical Sciences (September 2021 - Present) Acton-Boxborough Regional High School | (September 2017 - June 2021)"
   },
   {
     "objectID": "cv.html#education",
     "href": "cv.html#education",
-    "title": "C.V.",
+    "title": "Curriculum Vitae",
     "section": "",
     "text": "University of Toronto | HBSc Applied Statistics and Mathematical Sciences (September 2021 - Present) Acton-Boxborough Regional High School | (September 2017 - June 2021)"
   },
   {
     "objectID": "cv.html#experience",
     "href": "cv.html#experience",
-    "title": "C.V.",
-    "section": "",
-    "text": "TBA: Under construction!"
+    "title": "Curriculum Vitae",
+    "section": "Experience",
+    "text": "Experience\nTBA: Under construction!"
   },
   {
     "objectID": "cv.html#projects",
     "href": "cv.html#projects",
-    "title": "C.V.",
-    "section": "",
-    "text": "STA304 Group Project [About: Under Construction!]"
+    "title": "Curriculum Vitae",
+    "section": "Projects",
+    "text": "Projects\nSTA304 Group Project [About: Under Construction!]"
   },
   {
     "objectID": "cv.html#course-work",
     "href": "cv.html#course-work",
-    "title": "C.V.",
-    "section": "",
-    "text": "Calculus (MAT135/136/232/236)\nLinear Algebra (MAT223/224)\nGroup Theory (MAT301)\nReal Analysis (MAT337)\n\n\n\n\n\nProbaility and Statistics (STA256/258)\nRegression Analysis (STA302)\nSurveys, Sampling, and Observational Data (STA304)"
+    "title": "Curriculum Vitae",
+    "section": "Course Work",
+    "text": "Course Work\n\nMathematics\n\nCalculus (MAT135/136/232/236)\nLinear Algebra (MAT223/224)\nGroup Theory (MAT301)\nReal Analysis (MAT337)\n\n\n\nStatistics\n\nProbaility and Statistics (STA256/258)\nRegression Analysis (STA302)\nSurveys, Sampling, and Observational Data (STA304)"
   },
   {
     "objectID": "cv.html#skills",
     "href": "cv.html#skills",
-    "title": "C.V.",
-    "section": "",
-    "text": "Technical: LaTeX, Quarto, R Language, Git, Python\nEducation: Calculus, Linear Algebra, Real Analysis, Probability & Statistics\nCertifications: Adult and Pediatric First Aid/CPR/AED, Issued by the American Red Cross"
+    "title": "Curriculum Vitae",
+    "section": "Skills",
+    "text": "Skills\n\nTechnical: LaTeX, Quarto, R Language, Git, Python\nEducation: Calculus, Linear Algebra, Real Analysis, Probability & Statistics\nCertifications: Adult and Pediatric First Aid/CPR/AED, Issued by the American Red Cross"
   }
 ]
