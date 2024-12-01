@@ -1,8 +1,6 @@
 ---
-title: "C.V."
+title: "Curriculum Vitae"
 ---
-
-# Curriculum Vitae
 ## Education
 University of Toronto | HBSc Applied Statistics and Mathematical Sciences (September 2021 - Present)
 Acton-Boxborough Regional High School | (September 2017 - June 2021)
