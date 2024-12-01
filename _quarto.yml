@@ -3,16 +3,16 @@ project:
   output-dir: docs
 
 website:
-  title: "shea-m.github.io"
+  title: "Shea Munson's Personal Website"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - cv.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: lux
     css: styles.css
     toc: true
 

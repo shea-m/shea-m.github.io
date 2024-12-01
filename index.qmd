@@ -1,11 +1,27 @@
 ---
-title: "shea-m.github.io"
+title: "About Me"
+image: landing_page.jpg
+about:
+  id: about
+  template: marquee
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/shea-munson/
+    - icon: github
+      text: Github
+      href: https://github.com/shea-m
+    - icon: envelope
+      text: Email
+      href: mailto:shea.munson@mail.utoronto.ca
 ---
 
-This is a Quarto website.
+:::{#about}
+## Academics
+Hello! My name is Shea Munson and I am currently a fourth year undergraduate student at the University of Toronto studying applied statistics and mathematical sciences. Since I was a child I have always been interested in math and as I have gotten older that has translated into an interested in statistics. More recently, I have been drawn by the real world use of statistics and the enormous range of fields it is applied to. Seeing the real world effects of statistics and the influence it has on everyone in so many different areas has propelled my interest in further studying statistics. After I complete my undergraduate studies,  I am aiming to pursue a Masters of Science in Applied Statistics and/or Data Science. 
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## Personal
+Initially from Colorado in the Boulder area, I moved to Massachusetts when I was 8, where I currently reside when not in school. Living in and visiting Colorado influenced my love of the outdoors, where some of my favorite places in the world are (The Rocky Mountains!). When I'm not burried in my academics, I am often times playing games with friends, hiking, biking, climbing in the gym, watching a movie or show, or lost in a book. My favorite genres would have to be action, adventure, scifi, and mystery, although I am always open to watching and reading new things.
+:::
 
-```{r}
-1 + 1
-```
+Built with Quarto. To learn visit <https://quarto.org/docs/websites>.

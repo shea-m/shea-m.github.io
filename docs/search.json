@@ -2,15 +2,71 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "shea-m.github.io",
+    "title": "About Me",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Hello! My name is Shea Munson and I am currently a fourth year undergraduate student at the University of Toronto studying applied statistics and mathematical sciences. Since I was a child I have always been interested in math and as I have gotten older that has translated into an interested in statistics. More recently, I have been drawn by the real world use of statistics and the enormous range of fields it is applied to. Seeing the real world effects of statistics and the influence it has on everyone in so many different areas has propelled my interest in further studying statistics. After I complete my undergraduate studies, I am aiming to pursue a Masters of Science in Applied Statistics and/or Data Science.\n\n\n\nInitially from Colorado in the Boulder area, I moved to Massachusetts when I was 8, where I currently reside when not in school. Living in and visiting Colorado influenced my love of the outdoors, where some of my favorite places in the world are (The Rocky Mountains!). When I’m not burried in my academics, I am often times playing games with friends, hiking, biking, climbing in the gym, watching a movie or show, or lost in a book. My favorite genres would have to be action, adventure, scifi, and mystery, although I am always open to watching and reading new things.\n\n \n    \n  \n    \n     LinkedIn\n  \n  \n    \n     Github\n  \n  \n    \n     Email\nBuilt with Quarto. To learn visit https://quarto.org/docs/websites."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html#academics",
+    "href": "index.html#academics",
+    "title": "About Me",
+    "section": "",
+    "text": "Hello! My name is Shea Munson and I am currently a fourth year undergraduate student at the University of Toronto studying applied statistics and mathematical sciences. Since I was a child I have always been interested in math and as I have gotten older that has translated into an interested in statistics. More recently, I have been drawn by the real world use of statistics and the enormous range of fields it is applied to. Seeing the real world effects of statistics and the influence it has on everyone in so many different areas has propelled my interest in further studying statistics. After I complete my undergraduate studies, I am aiming to pursue a Masters of Science in Applied Statistics and/or Data Science."
+  },
+  {
+    "objectID": "index.html#personal",
+    "href": "index.html#personal",
+    "title": "About Me",
+    "section": "",
+    "text": "Initially from Colorado in the Boulder area, I moved to Massachusetts when I was 8, where I currently reside when not in school. Living in and visiting Colorado influenced my love of the outdoors, where some of my favorite places in the world are (The Rocky Mountains!). When I’m not burried in my academics, I am often times playing games with friends, hiking, biking, climbing in the gym, watching a movie or show, or lost in a book. My favorite genres would have to be action, adventure, scifi, and mystery, although I am always open to watching and reading new things."
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "C.V.",
+    "section": "",
+    "text": "University of Toronto | HBSc Applied Statistics and Mathematical Sciences (September 2021 - Present) Acton-Boxborough Regional High School | (September 2017 - June 2021)\n\n\n\nTBA: Under construction!\n\n\n\nSTA304 Group Project [About: Under Construction!]\n\n\n\n\n\n\nCalculus (MAT135/136/232/236)\nLinear Algebra (MAT223/224)\nGroup Theory (MAT301)\nReal Analysis (MAT337)\n\n\n\n\n\nProbaility and Statistics (STA256/258)\nRegression Analysis (STA302)\nSurveys, Sampling, and Observational Data (STA304)\n\n\n\n\n\n\nTechnical: LaTeX, Quarto, R Language, Git, Python\nEducation: Calculus, Linear Algebra, Real Analysis, Probability & Statistics\nCertifications: Adult and Pediatric First Aid/CPR/AED, Issued by the American Red Cross"
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "C.V.",
+    "section": "",
+    "text": "University of Toronto | HBSc Applied Statistics and Mathematical Sciences (September 2021 - Present) Acton-Boxborough Regional High School | (September 2017 - June 2021)"
+  },
+  {
+    "objectID": "cv.html#experience",
+    "href": "cv.html#experience",
+    "title": "C.V.",
+    "section": "",
+    "text": "TBA: Under construction!"
+  },
+  {
+    "objectID": "cv.html#projects",
+    "href": "cv.html#projects",
+    "title": "C.V.",
+    "section": "",
+    "text": "STA304 Group Project [About: Under Construction!]"
+  },
+  {
+    "objectID": "cv.html#course-work",
+    "href": "cv.html#course-work",
+    "title": "C.V.",
+    "section": "",
+    "text": "Calculus (MAT135/136/232/236)\nLinear Algebra (MAT223/224)\nGroup Theory (MAT301)\nReal Analysis (MAT337)\n\n\n\n\n\nProbaility and Statistics (STA256/258)\nRegression Analysis (STA302)\nSurveys, Sampling, and Observational Data (STA304)"
+  },
+  {
+    "objectID": "cv.html#skills",
+    "href": "cv.html#skills",
+    "title": "C.V.",
+    "section": "",
+    "text": "Technical: LaTeX, Quarto, R Language, Git, Python\nEducation: Calculus, Linear Algebra, Real Analysis, Probability & Statistics\nCertifications: Adult and Pediatric First Aid/CPR/AED, Issued by the American Red Cross"
   }
 ]

@@ -1,0 +1,32 @@
+---
+title: "C.V."
+---
+
+# Curriculum Vitae
+## Education
+University of Toronto | HBSc Applied Statistics and Mathematical Sciences (September 2021 - Present)
+Acton-Boxborough Regional High School | (September 2017 - June 2021)
+
+## Experience
+TBA: Under construction!
+
+## Projects
+STA304 Group Project
+[About: Under Construction!]
+
+## Course Work
+### Mathematics
+* Calculus (MAT135/136/232/236)
+* Linear Algebra (MAT223/224)
+* Group Theory (MAT301)
+* Real Analysis (MAT337)
+
+### Statistics
+* Probaility and Statistics (STA256/258)
+* Regression Analysis (STA302)
+* Surveys, Sampling, and Observational Data (STA304)
+
+## Skills
+* **Technical:** LaTeX, Quarto, R Language, Git, Python
+* **Education:** Calculus, Linear Algebra, Real Analysis, Probability & Statistics
+* **Certifications:** Adult and Pediatric First Aid/CPR/AED, Issued by the American Red Cross
